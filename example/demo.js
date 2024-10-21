@@ -1,4 +1,3 @@
-const os = require('os')
 const wait = (time) => {
   return new Promise((resolve) => {
     setTimeout(() => {
